@@ -1,0 +1,2 @@
+* * * * * curl -X 'GET' 'nginx' -H 'accept: application/json' >> /var/log/cron.log 2>&1
+# An empty line is required at the end of this file for a valid cron file.
